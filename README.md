@@ -30,7 +30,7 @@ You can download and install a PowerShell package for any of the following platf
 | -------------------------------------------| ------------------------| ------------------------| ----------------------| ------------------------------|
 | [Windows (x64)][corefx-win]                | [.msi][lts-windows-64]  | [.msi][rl-windows-64]   | [.msi][pv-windows-64] | [Instructions][in-windows]    |
 | [Windows (x86)][corefx-win]                | [.msi][lts-windows-86]  | [.msi][rl-windows-86]   | [.msi][pv-windows-86] | [Instructions][in-windows]    |
-| [Ubuntu 20.04][corefx-linux]               |                         | [.deb][rl-ubuntu20]     | [.deb][pv-ubuntu20]   | [Instructions][in-ubuntu20]   |
+| [Ubuntu 20.04][corefx-linux]               |                         | [.deb][rl-ubuntu20]     | [.deb][pv-ubuntu20]   | [Instructions][in-ubuntu20]   |#
 | [Ubuntu 18.04][corefx-linux]               | [.deb][lts-ubuntu18]    | [.deb][rl-ubuntu18]     | [.deb][pv-ubuntu18]   | [Instructions][in-ubuntu18]   |
 | [Ubuntu 16.04][corefx-linux]               | [.deb][lts-ubuntu16]    | [.deb][rl-ubuntu16]     | [.deb][pv-ubuntu16]   | [Instructions][in-ubuntu16]   |
 | [Debian 9][corefx-linux]                   | [.deb][lts-debian9]     | [.deb][rl-debian9]      | [.deb][pv-debian9]    | [Instructions][in-deb9]       |
@@ -251,4 +251,4 @@ For more information see the [Code of Conduct FAQ][conduct-FAQ] or contact [open
 [conduct-FAQ]: https://opensource.microsoft.com/codeofconduct/faq/
 [conduct-email]: mailto:opencode@microsoft.com
 [conduct-md]: https://github.com/PowerShell/PowerShell/tree/master/CODE_OF_CONDUCT.md
-#1
+# 1
